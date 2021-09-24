@@ -13,30 +13,6 @@
 <br/>
 
 <p align="center">
-[<img width="30px" src="https://raw.githubusercontent.com/ricardomarsanc/ricardomarsanc/master/assets/web.svg" />][website]
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-[<img width="30px" src="https://raw.githubusercontent.com/ricardomarsanc/ricardomarsanc/master/assets/web.svg" />][website]
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-[<img width="30px" src="https://raw.githubusercontent.com/ricardomarsanc/ricardomarsanc/master/assets/web.svg" />][website]
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-[<img width="30px" src="https://raw.githubusercontent.com/ricardomarsanc/ricardomarsanc/master/assets/web.svg" />][website]
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-[<img width="30px" src="https://raw.githubusercontent.com/ricardomarsanc/ricardomarsanc/master/assets/web.svg" />][website]
-</p>
-
-<!--<p align="center">
 <a href="https://ricardomarsanc.github.io">
     <img height="30px" src="https://raw.githubusercontent.com/ricardomarsanc/ricardomarsanc/master/assets/web.svg">
 </a>
@@ -96,7 +72,7 @@
 <img height="30px" src="https://img.shields.io/badge/-c%20sharp-333333?logo=csharp&logoColor=white&style=for-the-badge">
 <img height="30px" src="https://img.shields.io/badge/-illustrator-333333?logo=adobeillustrator&logoColor=white&style=for-the-badge">
 
-</p>-->
+</p>
 
 <br />
 <br />
