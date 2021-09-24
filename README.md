@@ -42,23 +42,23 @@
 <br />
 
 <p align="center">
-<img height="22px" src="https://img.shields.io/badge/-ReactJs-333333?logo=react&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-TypeScript-333333?logo=typescript&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-Unity-333333?logo=unity&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?logo=visualstudiocode&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-Vuejs-333333?logo=vuedotjs&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-Angular-333333?logo=angular&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-Angular%20JS-333333?logo=angularjs&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-Java-333333?logo=java&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-CSS-333333?logo=css3&logoColor=white&style=for-the-badgee">
-<img height="22px" src="https://img.shields.io/badge/-HTML-333333?logo=html5&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-jquery-333333?logo=jquery&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-bootstrap-333333?logo=bootstrap&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-three%20js-333333?logo=threedotjs&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-git-333333?logo=git&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-c%20sharp-333333?logo=csharp&logoColor=white&style=for-the-badge">
-<img height="22px" src="https://img.shields.io/badge/-illustrator-333333?logo=adobeillustrator&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-ReactJs-333333?logo=react&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-TypeScript-333333?logo=typescript&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-Unity-333333?logo=unity&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?logo=visualstudiocode&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-Vuejs-333333?logo=vuedotjs&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-Angular-333333?logo=angular&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-Angular%20JS-333333?logo=angularjs&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-Java-333333?logo=java&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-CSS-333333?logo=css3&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-HTML-333333?logo=html5&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-jquery-333333?logo=jquery&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-bootstrap-333333?logo=bootstrap&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-three%20js-333333?logo=threedotjs&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-git-333333?logo=git&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-c%20sharp-333333?logo=csharp&logoColor=white&style=for-the-badge">
+<img height="25px" src="https://img.shields.io/badge/-illustrator-333333?logo=adobeillustrator&logoColor=white&style=for-the-badge">
 
 </p>
 
