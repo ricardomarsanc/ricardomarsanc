@@ -88,7 +88,7 @@
     <td width="40%">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomarsanc"/>
     </td>
-    <td>
+    <td width="60%">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardomarsanc&show_icons=true"/>
     </td>
  </tr>
