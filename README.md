@@ -13,7 +13,6 @@
 <br/>
 
 <p align="center">
-
 [<img width="30px" src="https://raw.githubusercontent.com/ricardomarsanc/ricardomarsanc/master/assets/web.svg" />][website]
 &nbsp;
 &nbsp;
@@ -35,7 +34,6 @@
 &nbsp;
 &nbsp;
 [<img width="30px" src="https://raw.githubusercontent.com/ricardomarsanc/ricardomarsanc/master/assets/web.svg" />][website]
-
 </p>
 
 <!--<p align="center">
