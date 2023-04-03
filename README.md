@@ -4,7 +4,7 @@
 
 - 🌱 I’m always studying and learning about innovations in tech -> Now learning AI
 - 👯 Several years of experience as a Web Developer
-- ⚡ Fun fact: I love to travel, read, write and videogames/movies!
+- ⚡ Fun fact: I love to travel, read, write and playing videogames/watching movies!
 
 <br/>
 
