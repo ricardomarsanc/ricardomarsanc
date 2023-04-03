@@ -37,13 +37,6 @@
 <a href="https://www.linkedin.com/in/ricardo-martin-sanchez/">
     <img height="30px" src="https://raw.githubusercontent.com/ricardomarsanc/ricardomarsanc/master/assets/linkedin.svg">
 </a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://forseragames.wordpress.com/">
-    <img height="30px" src="https://raw.githubusercontent.com/ricardomarsanc/ricardomarsanc/master/assets/forsera.svg">
-</a>
 </p>
 
 <br/>
