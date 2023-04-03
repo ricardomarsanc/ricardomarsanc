@@ -2,9 +2,9 @@
 
 ## I'm a Software Engineer
 
-- 🌱 I’m currently studying a Game Design Master's Degree and learning about graphic design also!
+- 🌱 I’m always studying and learning about innovations in tech -> Now learning AI
 - 👯 Several years of experience as a Web Developer
-- ⚡ Fun fact: I love to draw, read, write and movies!
+- ⚡ Fun fact: I love to travel, read, write and videogames/movies!
 
 <br/>
 
