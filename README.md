@@ -87,9 +87,9 @@
  </tr>
 </table>
 
-<p align="center">
+<!--<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ricardomarsanc"/>
-</p>
+</p> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomarsanc)](https://github.com/ricardomarsanc/github-readme-stats) -->
 
